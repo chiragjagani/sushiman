@@ -48,6 +48,3 @@ Make sure you have Node.js installed on your machine. You can download it from [
 1. **Start the Vite development server:**
    ```bash
    npm run dev
-
-
-
