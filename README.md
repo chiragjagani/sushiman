@@ -34,7 +34,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sushi-man.git
+   git clone https://github.com/chiragjagani/sushi-man.git
    
 1. **Navigate to the project directory:**
    ```bash
